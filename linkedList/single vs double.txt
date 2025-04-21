@@ -1,0 +1,4 @@
+Singly linked list is to be used where memory is of concern,not much search
+
+
+Doubly two side traverse. searching is better. Requires more memory and storage. Extra operations on insert and delete. 
